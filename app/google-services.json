@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1014386175453",
+    "firebase_url": "https://myrestaurants-ccb25.firebaseio.com",
+    "project_id": "myrestaurants-ccb25",
+    "storage_bucket": "myrestaurants-ccb25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014386175453:android:168c776dcf9186e3",
+        "android_client_info": {
+          "package_name": "io.github.stewilondanga.myrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014386175453-3o4irkm5enpc1ij2acso3n506epf1sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9-B48s0iwBG0Mb9OQhGUkKfLo1XHXdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014386175453:android:2dd5c306c66ad69f",
+        "android_client_info": {
+          "package_name": "io.github.stewilondanga.outandabout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014386175453-4bu5gjp4rtov5tp9ok6efbjh8tfo83f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.stewilondanga.outandabout",
+            "certificate_hash": "0ba204756779481a175568741555fff691331973"
+          }
+        },
+        {
+          "client_id": "1014386175453-3o4irkm5enpc1ij2acso3n506epf1sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9-B48s0iwBG0Mb9OQhGUkKfLo1XHXdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014386175453-3o4irkm5enpc1ij2acso3n506epf1sen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014386175453:android:e56dee5a68feffc2",
+        "android_client_info": {
+          "package_name": "io.github.stewilondanga.update_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014386175453-4dok9u1lamc0839i1lagfftq97uhlo9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.stewilondanga.update_manager",
+            "certificate_hash": "0ba204756779481a175568741555fff691331973"
+          }
+        },
+        {
+          "client_id": "1014386175453-3o4irkm5enpc1ij2acso3n506epf1sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9-B48s0iwBG0Mb9OQhGUkKfLo1XHXdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014386175453-3o4irkm5enpc1ij2acso3n506epf1sen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
