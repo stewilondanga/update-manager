@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.UpdateListActivity" />
-        <activity android:name=".ui.UpdateDetailActivity"></activity>
+        <activity android:name=".ui.UpdateDetailActivity" />
+        <activity android:name=".ui.SavedUpdateListActivity"></activity>
     </application>
 
 </manifest>
