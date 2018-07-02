@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.UpdateListActivity"></activity>
+        <activity android:name=".ui.UpdateListActivity" />
+        <activity android:name=".ui.UpdateDetailActivity"></activity>
     </application>
 
 </manifest>
