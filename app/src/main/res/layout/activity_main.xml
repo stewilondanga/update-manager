@@ -8,17 +8,34 @@
     android:background="#000000">
 
     <ImageView
+        android:id="@+id/mainImageView"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:id="@+id/mainImageView"
-        android:src=""/>
+        android:src="@drawable/update"
+        android:scaleType="centerCrop"/>
+
     <TextView
+        android:id="@+id/mainTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="Update Manager"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:textColor="@color/primary_dark"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/mainButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Latest Briefs"
+        android:background="@color/primary_text"
+        android:textColor="@color/accent"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
 
 </RelativeLayout>
