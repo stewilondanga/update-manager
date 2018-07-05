@@ -4,8 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import io.github.stewilondanga.update_manager.R;
+import io.github.stewilondanga.update_manager.util.OnStartDragListener;
 
-public class SavedUpdateListActivity extends AppCompatActivity {
+public class SavedUpdateListActivity extends AppCompatActivity implements OnStartDragListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
