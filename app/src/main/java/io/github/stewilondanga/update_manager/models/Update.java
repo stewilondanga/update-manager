@@ -4,6 +4,9 @@ package io.github.stewilondanga.update_manager.models;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+import org.parceler.Parcel;
+
+@Parcel
 public class Update {
 
     @SerializedName("response")
@@ -32,6 +35,14 @@ public class Update {
 
     public void setResponse(Response response) {
         this.response = response;
+    }
+
+    public String getPushId(){
+        return pushId;
+    }
+
+    public void setPushId(String pushId) {
+        this.pushId = pushId;
     }
 
 }
